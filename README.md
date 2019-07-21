@@ -5,8 +5,8 @@
 This application will allow users to keep a journal wherein snippets of frequently repeated information can be easily added to a journal entry.   
 
 ### Specs
-![Component diagram](/src/assets/CapstoneComponents.png)
-![UI Mockup](/src/assets/CapstoneUI.png)
+![Component diagram](/src/assets/img/CapstoneComponents.png)
+![UI Mockup](/src/assets/img/CapstoneUI.png)
 
 | User story | Details|
 | :-------------     | :------------- |
